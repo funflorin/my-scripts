@@ -17,3 +17,6 @@ function afisare_combinari($a, $len){
 	}
 	return $out;
 }
+function test() {
+
+}
